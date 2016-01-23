@@ -1,4 +1,4 @@
-# Simple demo for spoitpy OAuth workflow
+# Simple demo for spotipy OAuth workflow
 
 Install dependencies with
 
