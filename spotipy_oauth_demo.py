@@ -22,7 +22,7 @@ def index():
     token_info = sp_oauth.get_cached_token()
 
     if token_info:
-        print "Found cached token!"
+        print("Found cached token!")
         access_token = token_info['access_token']
     else:
         url = request.url
